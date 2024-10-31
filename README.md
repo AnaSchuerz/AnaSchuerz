@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about earth systems and programming applied to geoscience.
 - 💞️ I’m looking to collaborate on projects related to geophysical methods
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a die hard Swiftie and also have a cat!
+- ⚡ Fun fact: I'm a die hard Swiftie and also a cat lady!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnaSchuerz&label=Profile%20views&color=0e75b6&style=flat" alt="AnaSchuerz" /> </p>
 
