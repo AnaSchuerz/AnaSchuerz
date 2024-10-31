@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AnaSchuerz
-- 👀 I’m interested in learning!
-- 🌱 I’m currently learning a lot
-- 💞️ I’m looking to collaborate on Taylor
-- 😄 Pronouns: Tay/Lor
-- ⚡ Fun fact: Giraffes are heartless creatures
+- 👀 I’m interested in learning about geophysics and programming!
+- 🌱 I’m currently learning about earth systems and programming applied to geoscience.
+- 💞️ I’m looking to collaborate on projects related to geophysical methods
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm a die hard Swiftie and also have a cat!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnaSchuerz&label=Profile%20views&color=0e75b6&style=flat" alt="AnaSchuerz" /> </p>
 
